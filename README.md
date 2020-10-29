@@ -25,5 +25,11 @@ I'm a Senior Fullstack Developer.
  ![Laravel](https://img.shields.io/badge/-Laravel-47848F?style=flat-square&logo=Laravel&logoColor=fff)
  ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-47848F?style=flat-square&logo=CodeIgniter&logoColor=fff)
  ![Django](https://img.shields.io/badge/-Django-47848F?style=flat-square&logo=Django&logoColor=fff)
+ ![Express](https://img.shields.io/badge/-Express-47848F?style=flat-square&logo=Express&logoColor=fff)
+ ![Django](https://img.shields.io/badge/-Django-47848F?style=flat-square&logo=Django&logoColor=fff)
+ ![Django](https://img.shields.io/badge/-Django-47848F?style=flat-square&logo=Django&logoColor=fff)
+ ![Django](https://img.shields.io/badge/-Django-47848F?style=flat-square&logo=Django&logoColor=fff)
+ ![Django](https://img.shields.io/badge/-Django-47848F?style=flat-square&logo=Django&logoColor=fff)
+ ![Django](https://img.shields.io/badge/-Django-47848F?style=flat-square&logo=Django&logoColor=fff)
  
  ### 👇 Maybe you will be intersted in my projects!
