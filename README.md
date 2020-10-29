@@ -2,7 +2,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mg7dev&show_icons=true&hide_border=true&hide_rank=true&card_width=100" width="500px" />
 </a>
 
-🌈 I prefer using these programming languages & frameworks:
 
  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff) 
  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=fff) 
@@ -16,5 +15,3 @@
  ![Angular](https://img.shields.io/badge/-Angular-339933?style=flat-square&logo=Angular&logoColor=fff)
  ![Vue](https://img.shields.io/badge/-Vue.js-007ACC?style=flat-square&logo=Vue.js&logoColor=fff)
  
- 
- ### 👇 Maybe you will be intersted in my projects!
