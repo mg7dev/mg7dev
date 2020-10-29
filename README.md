@@ -1,4 +1,4 @@
-<a href="https://github.com/syfxlin?tab=repositories">
+<a href="https://github.com/mg7dev?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mg7dev&show_icons=true&hide_border=true&hide_rank=true&card_width=100" width="500px" />
 </a>
 
