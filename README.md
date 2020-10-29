@@ -1,6 +1,3 @@
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=fff) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=fff) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 ![Laravel](https://img.shields.io/badge/-Laravel-47848F?style=flat-square&logo=Laravel&logoColor=fff)
@@ -16,8 +13,8 @@
 
 ## Nice to meet you
 
-[![Blog](https://img.shields.io/badge/-kasagames.com-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://kasagames.com)<br/>
-[![Twitter](https://img.shields.io/badge/-@__yume__maruyama-1DA1F2?style=flat-square&logo=Blogger&logoColor=fff)](http://) <br/>
-[![Weibo](https://img.shields.io/badge/-weibo.com/returnnnn-E6162D?style=flat-square&logo=sina-Blogger&logoColor=fff)](https://weibo.com/returnnnn) <br/>
-[![Telegram](https://img.shields.io/badge/-@yume__maruyama-2CA5E0?style=flat-square&logo=Blogger&logoColor=fff)](https://t.me/yume_maruyama) <br/>
-[![Codeforces](https://img.shields.io/badge/-@kirainmoe-269539?style=flat-square&logo=Blogger&logoColor=fff)](https://codeforces.com/profile/kirainmoe)<br/>
+[![Blog](https://img.shields.io/badge/-mg7dev.github.io-4B8BF5?style=flat-square)](https://mg7dev.github.io)<br/>
+[![Blog](https://img.shields.io/badge/-mg7dev.github.io-4B8BF5?style=flat-square)](https://mg7dev.github.io)<br/>
+[![Blog](https://img.shields.io/badge/-mg7dev.github.io-4B8BF5?style=flat-square)](https://mg7dev.github.io)<br/>
+[![Blog](https://img.shields.io/badge/-mg7dev.github.io-4B8BF5?style=flat-square)](https://mg7dev.github.io)<br/>
+
