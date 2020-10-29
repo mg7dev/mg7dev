@@ -13,8 +13,8 @@
 
 ## Nice to meet you
 
-[![Blog](https://img.shields.io/badge/-mg7dev.github.io-4B8BF5?style=flat-square)](https://mg7dev.github.io)<br/>
-[![Blog](https://img.shields.io/badge/-mg7dev.github.io-4B8BF5?style=flat-square)](https://mg7dev.github.io)<br/>
-[![Blog](https://img.shields.io/badge/-mg7dev.github.io-4B8BF5?style=flat-square)](https://mg7dev.github.io)<br/>
-[![Blog](https://img.shields.io/badge/-mg7dev.github.io-4B8BF5?style=flat-square)](https://mg7dev.github.io)<br/>
+[![Blog](https://img.shields.io/badge/-mg7dev.github.io-4B8BF5?style=flat-square)](https://mg7dev.github.io)
+[![Blog](https://img.shields.io/badge/-mg7dev.github.io-4B8BF5?style=flat-square)](https://mg7dev.github.io)
+[![Blog](https://img.shields.io/badge/-mg7dev.github.io-4B8BF5?style=flat-square)](https://mg7dev.github.io)
+[![Blog](https://img.shields.io/badge/-mg7dev.github.io-4B8BF5?style=flat-square)](https://mg7dev.github.io)
 
