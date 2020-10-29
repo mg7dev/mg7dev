@@ -4,11 +4,11 @@
 
 ## Nice to meet you 😄
 
-Yume Maruyama  です！
+This is Maksim Kuduria！
 
-I'm a college student, now studying Computer Science at XMU.
+I'm a Senior Fullstack Developer.
 
-_← This avatar is my [**favorite Vup**](https://space.bilibili.com/479633069/) ⛩_.
+_← _.
 
 
 
