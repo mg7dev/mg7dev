@@ -22,9 +22,8 @@ I'm a Senior Fullstack Developer.
  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=fff)
  ![Angular](https://img.shields.io/badge/-Angular-47848F?style=flat-square&logo=Angular&logoColor=fff)
  ![Vue](https://img.shields.io/badge/-Vue-47848F?style=flat-square&logo=Vue&logoColor=fff)
- ![Android](https://img.shields.io/badge/-Android-691824?style=flat-square&logo=Android&logoColor=fff)
- ![Kotlin](https://img.shields.io/badge/-Kotlin-47848F?style=flat-square&logo=Kotlin&logoColor=fff)
  ![Laravel](https://img.shields.io/badge/-Laravel-47848F?style=flat-square&logo=Laravel&logoColor=fff)
+ ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-47848F?style=flat-square&logo=CodeIgniter&logoColor=fff)
  ![Django](https://img.shields.io/badge/-Django-47848F?style=flat-square&logo=Django&logoColor=fff)
  
  ### 👇 Maybe you will be intersted in my projects!
