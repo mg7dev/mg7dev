@@ -1,5 +1,5 @@
 <a href="https://github.com/syfxlin?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=kirainmoe&show_icons=true&hide_border=true&hide_rank=true&card_width=100" width="500px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mg7dev&show_icons=true&hide_border=true&hide_rank=true&card_width=100" width="500px" />
 </a>
 
 ## Nice to meet you 😄
@@ -10,11 +10,6 @@ I'm a college student, now studying Computer Science at XMU.
 
 _← This avatar is my [**favorite Vup**](https://space.bilibili.com/479633069/) ⛩_.
 
-[![Blog](https://img.shields.io/badge/-kirainmoe.com-4B8BF5?style=flat-square&logo=Blogger&logoColor=fff)](https://kirainmoe.com)
-[![Twitter](https://img.shields.io/badge/-@__yume__maruyama-1DA1F2?style=flat-square&logo=Twitter&logoColor=fff)](https://twitter.com/_yume_maruyama_)
-[![Weibo](https://img.shields.io/badge/-weibo.com/returnnnn-E6162D?style=flat-square&logo=sina-weibo&logoColor=fff)](https://weibo.com/returnnnn)
-[![Telegram](https://img.shields.io/badge/-@yume__maruyama-2CA5E0?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/yume_maruyama)
-[![Codeforces](https://img.shields.io/badge/-@kirainmoe-269539?style=flat-square&logo=codeforces&logoColor=fff)](https://codeforces.com/profile/kirainmoe)
 
 
 🔭 I’m currently focusing on **Algorithm Competition (CCPC/ICPC)**, and trying to learn **Natural Language Processing**.
