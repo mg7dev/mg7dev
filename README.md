@@ -24,6 +24,7 @@ I'm a Senior Fullstack Developer.
  ![Vue](https://img.shields.io/badge/-Vue-47848F?style=flat-square&logo=Vue&logoColor=fff)
  ![Android](https://img.shields.io/badge/-Android-691824?style=flat-square&logo=Android&logoColor=fff)
  ![Kotlin](https://img.shields.io/badge/-Kotlin-47848F?style=flat-square&logo=Kotlin&logoColor=fff)
- ![ReactNavtive](https://img.shields.io/badge/-ReactNavtive-47848F?style=flat-square&logo=ReactNavtive&logoColor=fff)
+ ![Laravel](https://img.shields.io/badge/-Laravel-47848F?style=flat-square&logo=Laravel&logoColor=fff)
+ ![Django](https://img.shields.io/badge/-Django-47848F?style=flat-square&logo=Django&logoColor=fff)
  
  ### 👇 Maybe you will be intersted in my projects!
