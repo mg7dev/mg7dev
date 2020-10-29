@@ -20,7 +20,7 @@ I'm a Senior Fullstack Developer.
  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=fff)
- ![Angular](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=fff)
+ ![Angular](https://img.shields.io/badge/-Angular-47848F?style=flat-square&logo=Angular&logoColor=fff)
  ![Vue](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=fff)
  ![Android](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=fff)
  ![Kotlin](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=fff)
