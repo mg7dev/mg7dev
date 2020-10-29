@@ -21,9 +21,9 @@ I'm a Senior Fullstack Developer.
  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=fff)
  ![Angular](https://img.shields.io/badge/-Angular-47848F?style=flat-square&logo=Angular&logoColor=fff)
- ![Vue](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=fff)
- ![Android](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=fff)
- ![Kotlin](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=fff)
+ ![Vue](https://img.shields.io/badge/-Vue-47848F?style=flat-square&logo=Vue&logoColor=fff)
+ ![Android](https://img.shields.io/badge/-Android-691824?style=flat-square&logo=Android&logoColor=fff)
+ ![Kotlin](https://img.shields.io/badge/-Kotlin-47848F?style=flat-square&logo=Kotlin&logoColor=fff)
  ![ReactNavtive](https://img.shields.io/badge/-ReactNavtive-47848F?style=flat-square&logo=ReactNavtive&logoColor=fff)
  
  ### 👇 Maybe you will be intersted in my projects!
