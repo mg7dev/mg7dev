@@ -22,5 +22,3 @@ I’m enthusiastic about **Web Development** .
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-339933?style=flat-square&logo=Angular&logoColor=fff)
 ![Vue](https://img.shields.io/badge/-Vue.js-007ACC?style=flat-square&logo=Vue.js&logoColor=fff)
- 
- ### 👇 Maybe you will be intersted in my projects!
