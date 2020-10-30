@@ -10,9 +10,7 @@ This is Maksim Kuduria！
 
 I'm a Senior Fullstack Developer.
 
-
-
-🌱 I’m enthusiastic about **Web Development** and **Mobile Development**.
+I’m enthusiastic about **Web Development** .
 
 🌈 I prefer using these programming languages & frameworks:
 
